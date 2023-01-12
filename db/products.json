@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "description": "laptop gaming",
+      "price": 1000,
+      "inStock": false
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "description": "mouse gaming",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "keyboad",
+      "description": "keyboad gaming",
+      "price": 500,
+      "inStock": true
+    },
+    {
+      "name": "pantalla",
+      "description": "pantalla 14 pulgadas",
+      "price": "500",
+      "inStock": true,
+      "id": 4
+    }
+  ]
+}
